@@ -309,7 +309,7 @@ const getCurrentLocation = async () => {
 onMounted(async () => {
   try {
     isLoading.value = true
-    const response = await fetch('/stores.json')
+    const response = await fetch(`${import.meta.env.BASE_URL}stores.json`)
     const data = await response.json()
     
     // 대용량 데이터를 청크 단위로 로드
