@@ -1,0 +1,912 @@
+[
+  {
+    "id": 1,
+    "name": "인형뽑기 오락실",
+    "address": "충청남도 예산군\r\n\f읍",
+    "google_map": "https://www.google.com/maps?q=%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%EC%98%88%EC%82%B0%EA%B5%B0%0D%0A%0C%EC%9D%8D",
+    "naver_map": "https://map.naver.com/v5/search/%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%EC%98%88%EC%82%B0%EA%B5%B0%0D%0A%0C%EC%9D%8D"
+  },
+  {
+    "id": 2,
+    "name": "인형뽑기 오락실",
+    "address": "리 220-3번지",
+    "google_map": "https://www.google.com/maps?q=%EB%A6%AC%20220-3%EB%B2%88%EC%A7%80",
+    "naver_map": "https://map.naver.com/v5/search/%EB%A6%AC%20220-3%EB%B2%88%EC%A7%80"
+  },
+  {
+    "id": 3,
+    "name": "인형뽑기 오락실",
+    "address": "동 202호 (신매동, 한라",
+    "google_map": "https://www.google.com/maps?q=%EB%8F%99%20202%ED%98%B8%20%28%EC%8B%A0%EB%A7%A4%EB%8F%99%2C%20%ED%95%9C%EB%9D%BC",
+    "naver_map": "https://map.naver.com/v5/search/%EB%8F%99%20202%ED%98%B8%20%28%EC%8B%A0%EB%A7%A4%EB%8F%99%2C%20%ED%95%9C%EB%9D%BC"
+  },
+  {
+    "id": 4,
+    "name": "인형뽑기 오락실",
+    "address": "울산광역시 동구 서부동 113-71",
+    "google_map": "https://www.google.com/maps?q=%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%8F%99%EA%B5%AC%20%EC%84%9C%EB%B6%80%EB%8F%99%20113-71",
+    "naver_map": "https://map.naver.com/v5/search/%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%8F%99%EA%B5%AC%20%EC%84%9C%EB%B6%80%EB%8F%99%20113-71"
+  },
+  {
+    "id": 5,
+    "name": "인형뽑기 오락실",
+    "address": "명덕3길 6, 1층 (",
+    "google_map": "https://www.google.com/maps?q=%EB%AA%85%EB%8D%953%EA%B8%B8%206%2C%201%EC%B8%B5%20%28",
+    "naver_map": "https://map.naver.com/v5/search/%EB%AA%85%EB%8D%953%EA%B8%B8%206%2C%201%EC%B8%B5%20%28"
+  },
+  {
+    "id": 6,
+    "name": "인형뽑기 오락실",
+    "address": "럭셔리 자이언츠.",
+    "google_map": "https://www.google.com/maps?q=%EB%9F%AD%EC%85%94%EB%A6%AC%20%EC%9E%90%EC%9D%B4%EC%96%B8%EC%B8%A0.",
+    "naver_map": "https://map.naver.com/v5/search/%EB%9F%AD%EC%85%94%EB%A6%AC%20%EC%9E%90%EC%9D%B4%EC%96%B8%EC%B8%A0."
+  },
+  {
+    "id": 7,
+    "name": "인형뽑기 오락실",
+    "address": "승지로60번",
+    "google_map": "https://www.google.com/maps?q=%EC%8A%B9%EC%A7%80%EB%A1%9C60%EB%B2%88",
+    "naver_map": "https://map.naver.com/v5/search/%EC%8A%B9%EC%A7%80%EB%A1%9C60%EB%B2%88"
+  },
+  {
+    "id": 8,
+    "name": "인형뽑기 오락실",
+    "address": "차이나타운로44-",
+    "google_map": "https://www.google.com/maps?q=%EC%B0%A8%EC%9D%B4%EB%82%98%ED%83%80%EC%9A%B4%EB%A1%9C44-",
+    "naver_map": "https://map.naver.com/v5/search/%EC%B0%A8%EC%9D%B4%EB%82%98%ED%83%80%EC%9A%B4%EB%A1%9C44-"
+  },
+  {
+    "id": 9,
+    "name": "인형뽑기 오락실",
+    "address": "충청남도 보령시 신흑동 2005",
+    "google_map": "https://www.google.com/maps?q=%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%EB%B3%B4%EB%A0%B9%EC%8B%9C%20%EC%8B%A0%ED%9D%91%EB%8F%99%202005",
+    "naver_map": "https://map.naver.com/v5/search/%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%EB%B3%B4%EB%A0%B9%EC%8B%9C%20%EC%8B%A0%ED%9D%91%EB%8F%99%202005"
+  },
+  {
+    "id": 10,
+    "name": "인형뽑기 오락실",
+    "address": "대해로 883 (",
+    "google_map": "https://www.google.com/maps?q=%EB%8C%80%ED%95%B4%EB%A1%9C%20883%20%28",
+    "naver_map": "https://map.naver.com/v5/search/%EB%8C%80%ED%95%B4%EB%A1%9C%20883%20%28"
+  },
+  {
+    "id": 11,
+    "name": "인형뽑기 오락실",
+    "address": "펌피럽피에스타, 테트리스",
+    "google_map": "https://www.google.com/maps?q=%ED%8E%8C%ED%94%BC%EB%9F%BD%ED%94%BC%EC%97%90%EC%8A%A4%ED%83%80%2C%20%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4",
+    "naver_map": "https://map.naver.com/v5/search/%ED%8E%8C%ED%94%BC%EB%9F%BD%ED%94%BC%EC%97%90%EC%8A%A4%ED%83%80%2C%20%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4"
+  },
+  {
+    "id": 12,
+    "name": "인형뽑기 오락실",
+    "address": "배방읍 북수리 1368번지",
+    "google_map": "https://www.google.com/maps?q=%EB%B0%B0%EB%B0%A9%EC%9D%8D%20%EB%B6%81%EC%88%98%EB%A6%AC%201368%EB%B2%88%EC%A7%80",
+    "naver_map": "https://map.naver.com/v5/search/%EB%B0%B0%EB%B0%A9%EC%9D%8D%20%EB%B6%81%EC%88%98%EB%A6%AC%201368%EB%B2%88%EC%A7%80"
+  },
+  {
+    "id": 13,
+    "name": "코끼리인형뽑기",
+    "address": "코끼리인형뽑기",
+    "google_map": "https://www.google.com/maps?q=%EC%BD%94%EB%81%BC%EB%A6%AC%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0",
+    "naver_map": "https://map.naver.com/v5/search/%EC%BD%94%EB%81%BC%EB%A6%AC%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0"
+  },
+  {
+    "id": 14,
+    "name": "인형뽑기 오락실",
+    "address": "리2 1, 마트\t0인 9",
+    "google_map": "https://www.google.com/maps?q=%EB%A6%AC2%201%2C%20%EB%A7%88%ED%8A%B8%090%EC%9D%B8%209",
+    "naver_map": "https://map.naver.com/v5/search/%EB%A6%AC2%201%2C%20%EB%A7%88%ED%8A%B8%090%EC%9D%B8%209"
+  },
+  {
+    "id": 15,
+    "name": "인형뽑기 오락실",
+    "address": "궁촌동 3471\u001c합터",
+    "google_map": "https://www.google.com/maps?q=%EA%B6%81%EC%B4%8C%EB%8F%99%203471%1C%ED%95%A9%ED%84%B0",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B6%81%EC%B4%8C%EB%8F%99%203471%1C%ED%95%A9%ED%84%B0"
+  },
+  {
+    "id": 16,
+    "name": "인형뽑기 오락실",
+    "address": "시 신평동 235-5",
+    "google_map": "https://www.google.com/maps?q=%EC%8B%9C%20%EC%8B%A0%ED%8F%89%EB%8F%99%20235-5",
+    "naver_map": "https://map.naver.com/v5/search/%EC%8B%9C%20%EC%8B%A0%ED%8F%89%EB%8F%99%20235-5"
+  },
+  {
+    "id": 17,
+    "name": "인형뽑기 오락실",
+    "address": "보문로 455 (",
+    "google_map": "https://www.google.com/maps?q=%EB%B3%B4%EB%AC%B8%EB%A1%9C%20455%20%28",
+    "naver_map": "https://map.naver.com/v5/search/%EB%B3%B4%EB%AC%B8%EB%A1%9C%20455%20%28"
+  },
+  {
+    "id": 18,
+    "name": "인형뽑기 오락실",
+    "address": "포트리스2레드포에\r/ 버쳐테",
+    "google_map": "https://www.google.com/maps?q=%ED%8F%AC%ED%8A%B8%EB%A6%AC%EC%8A%A42%EB%A0%88%EB%93%9C%ED%8F%AC%EC%97%90%0D/%20%EB%B2%84%EC%B3%90%ED%85%8C",
+    "naver_map": "https://map.naver.com/v5/search/%ED%8F%AC%ED%8A%B8%EB%A6%AC%EC%8A%A42%EB%A0%88%EB%93%9C%ED%8F%AC%EC%97%90%0D/%20%EB%B2%84%EC%B3%90%ED%85%8C"
+  },
+  {
+    "id": 19,
+    "name": "인형뽑기 오락실",
+    "address": "양정로251번길 10 (",
+    "google_map": "https://www.google.com/maps?q=%EC%96%91%EC%A0%95%EB%A1%9C251%EB%B2%88%EA%B8%B8%2010%20%28",
+    "naver_map": "https://map.naver.com/v5/search/%EC%96%91%EC%A0%95%EB%A1%9C251%EB%B2%88%EA%B8%B8%2010%20%28"
+  },
+  {
+    "id": 20,
+    "name": "인형뽑기 오락실",
+    "address": "리 1357-6",
+    "google_map": "https://www.google.com/maps?q=%EB%A6%AC%201357-6",
+    "naver_map": "https://map.naver.com/v5/search/%EB%A6%AC%201357-6"
+  },
+  {
+    "id": 21,
+    "name": "인형뽑기 오락실",
+    "address": "하1,1,2,3층",
+    "google_map": "https://www.google.com/maps?q=%ED%95%981%2C1%2C2%2C3%EC%B8%B5",
+    "naver_map": "https://map.naver.com/v5/search/%ED%95%981%2C1%2C2%2C3%EC%B8%B5"
+  },
+  {
+    "id": 22,
+    "name": "인형뽑기 오락실",
+    "address": "서울특별시 강북구 수유동 118-1번지",
+    "google_map": "https://www.google.com/maps?q=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%B6%81%EA%B5%AC%20%EC%88%98%EC%9C%A0%EB%8F%99%20118-1%EB%B2%88%EC%A7%80",
+    "naver_map": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%B6%81%EA%B5%AC%20%EC%88%98%EC%9C%A0%EB%8F%99%20118-1%EB%B2%88%EC%A7%80"
+  },
+  {
+    "id": 23,
+    "name": "인형뽑기 오락실",
+    "address": "덕릉로 49, 1층 (",
+    "google_map": "https://www.google.com/maps?q=%EB%8D%95%EB%A6%89%EB%A1%9C%2049%2C%201%EC%B8%B5%20%28",
+    "naver_map": "https://map.naver.com/v5/search/%EB%8D%95%EB%A6%89%EB%A1%9C%2049%2C%201%EC%B8%B5%20%28"
+  },
+  {
+    "id": 24,
+    "name": "인형뽑기 오락실",
+    "address": "효림빌딩 104호",
+    "google_map": "https://www.google.com/maps?q=%ED%9A%A8%EB%A6%BC%EB%B9%8C%EB%94%A9%20104%ED%98%B8",
+    "naver_map": "https://map.naver.com/v5/search/%ED%9A%A8%EB%A6%BC%EB%B9%8C%EB%94%A9%20104%ED%98%B8"
+  },
+  {
+    "id": 25,
+    "name": "인형뽑기 오락실",
+    "address": "대로1369번",
+    "google_map": "https://www.google.com/maps?q=%EB%8C%80%EB%A1%9C1369%EB%B2%88",
+    "naver_map": "https://map.naver.com/v5/search/%EB%8C%80%EB%A1%9C1369%EB%B2%88"
+  },
+  {
+    "id": 26,
+    "name": "인형뽑기 오락실",
+    "address": "럭셔리 러브푸시, 요요파티원",
+    "google_map": "https://www.google.com/maps?q=%EB%9F%AD%EC%85%94%EB%A6%AC%20%EB%9F%AC%EB%B8%8C%ED%91%B8%EC%8B%9C%2C%20%EC%9A%94%EC%9A%94%ED%8C%8C%ED%8B%B0%EC%9B%90",
+    "naver_map": "https://map.naver.com/v5/search/%EB%9F%AD%EC%85%94%EB%A6%AC%20%EB%9F%AC%EB%B8%8C%ED%91%B8%EC%8B%9C%2C%20%EC%9A%94%EC%9A%94%ED%8C%8C%ED%8B%B0%EC%9B%90"
+  },
+  {
+    "id": 27,
+    "name": "인형뽑기 오락실",
+    "address": "마리오카트 등 20종, 31대",
+    "google_map": "https://www.google.com/maps?q=%EB%A7%88%EB%A6%AC%EC%98%A4%EC%B9%B4%ED%8A%B8%20%EB%93%B1%2020%EC%A2%85%2C%2031%EB%8C%80",
+    "naver_map": "https://map.naver.com/v5/search/%EB%A7%88%EB%A6%AC%EC%98%A4%EC%B9%B4%ED%8A%B8%20%EB%93%B1%2020%EC%A2%85%2C%2031%EB%8C%80"
+  },
+  {
+    "id": 28,
+    "name": "인형뽑기 오락실",
+    "address": "롤리팝키덜트",
+    "google_map": "https://www.google.com/maps?q=%EB%A1%A4%EB%A6%AC%ED%8C%9D%ED%82%A4%EB%8D%9C%ED%8A%B8",
+    "naver_map": "https://map.naver.com/v5/search/%EB%A1%A4%EB%A6%AC%ED%8C%9D%ED%82%A4%EB%8D%9C%ED%8A%B8"
+  },
+  {
+    "id": 29,
+    "name": "인형뽑기 오락실",
+    "address": "강원특별자치도 춘천시 명동길 3 (조양동)",
+    "google_map": "https://www.google.com/maps?q=%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%B6%98%EC%B2%9C%EC%8B%9C%20%EB%AA%85%EB%8F%99%EA%B8%B8%203%20%28%EC%A1%B0%EC%96%91%EB%8F%99%29",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%B6%98%EC%B2%9C%EC%8B%9C%20%EB%AA%85%EB%8F%99%EA%B8%B8%203%20%28%EC%A1%B0%EC%96%91%EB%8F%99%29"
+  },
+  {
+    "id": 30,
+    "name": "인형뽑기 오락실",
+    "address": "락동 812-1 진산프라자투 111호",
+    "google_map": "https://www.google.com/maps?q=%EB%9D%BD%EB%8F%99%20812-1%20%EC%A7%84%EC%82%B0%ED%94%84%EB%9D%BC%EC%9E%90%ED%88%AC%20111%ED%98%B8",
+    "naver_map": "https://map.naver.com/v5/search/%EB%9D%BD%EB%8F%99%20812-1%20%EC%A7%84%EC%82%B0%ED%94%84%EB%9D%BC%EC%9E%90%ED%88%AC%20111%ED%98%B8"
+  },
+  {
+    "id": 31,
+    "name": "인형뽑기 오락실",
+    "address": "오목로205번",
+    "google_map": "https://www.google.com/maps?q=%EC%98%A4%EB%AA%A9%EB%A1%9C205%EB%B2%88",
+    "naver_map": "https://map.naver.com/v5/search/%EC%98%A4%EB%AA%A9%EB%A1%9C205%EB%B2%88"
+  },
+  {
+    "id": 32,
+    "name": "인형뽑기 오락실",
+    "address": "광덕2로 50-1",
+    "google_map": "https://www.google.com/maps?q=%EA%B4%91%EB%8D%952%EB%A1%9C%2050-1",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B4%91%EB%8D%952%EB%A1%9C%2050-1"
+  },
+  {
+    "id": 33,
+    "name": "인형뽑기 오락실",
+    "address": "읍 학동리 678",
+    "google_map": "https://www.google.com/maps?q=%EC%9D%8D%20%ED%95%99%EB%8F%99%EB%A6%AC%20678",
+    "naver_map": "https://map.naver.com/v5/search/%EC%9D%8D%20%ED%95%99%EB%8F%99%EB%A6%AC%20678"
+  },
+  {
+    "id": 34,
+    "name": "인형뽑기 오락실",
+    "address": "파동2가 63-5 중하빌딩",
+    "google_map": "https://www.google.com/maps?q=%ED%8C%8C%EB%8F%992%EA%B0%80%2063-5%20%EC%A4%91%ED%95%98%EB%B9%8C%EB%94%A9",
+    "naver_map": "https://map.naver.com/v5/search/%ED%8C%8C%EB%8F%992%EA%B0%80%2063-5%20%EC%A4%91%ED%95%98%EB%B9%8C%EB%94%A9"
+  },
+  {
+    "id": 35,
+    "name": "인형뽑기 오락실",
+    "address": "여흥로109",
+    "google_map": "https://www.google.com/maps?q=%EC%97%AC%ED%9D%A5%EB%A1%9C109",
+    "naver_map": "https://map.naver.com/v5/search/%EC%97%AC%ED%9D%A5%EB%A1%9C109"
+  },
+  {
+    "id": 36,
+    "name": "인형뽑기 오락실",
+    "address": "전북특별자치도 군산시 동수송4길 4 (",
+    "google_map": "https://www.google.com/maps?q=%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EA%B5%B0%EC%82%B0%EC%8B%9C%20%EB%8F%99%EC%88%98%EC%86%A14%EA%B8%B8%204%20%28",
+    "naver_map": "https://map.naver.com/v5/search/%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EA%B5%B0%EC%82%B0%EC%8B%9C%20%EB%8F%99%EC%88%98%EC%86%A14%EA%B8%B8%204%20%28"
+  },
+  {
+    "id": 37,
+    "name": "인형뽑기 오락실",
+    "address": "운동 1536-5",
+    "google_map": "https://www.google.com/maps?q=%EC%9A%B4%EB%8F%99%201536-5",
+    "naver_map": "https://map.naver.com/v5/search/%EC%9A%B4%EB%8F%99%201536-5"
+  },
+  {
+    "id": 38,
+    "name": "인형뽑기 오락실",
+    "address": "럭셔리 러브푸쉬",
+    "google_map": "https://www.google.com/maps?q=%EB%9F%AD%EC%85%94%EB%A6%AC%20%EB%9F%AC%EB%B8%8C%ED%91%B8%EC%89%AC",
+    "naver_map": "https://map.naver.com/v5/search/%EB%9F%AD%EC%85%94%EB%A6%AC%20%EB%9F%AC%EB%B8%8C%ED%91%B8%EC%89%AC"
+  },
+  {
+    "id": 39,
+    "name": "인형뽑기 오락실",
+    "address": "월명로 83, 1층",
+    "google_map": "https://www.google.com/maps?q=%EC%9B%94%EB%AA%85%EB%A1%9C%2083%2C%201%EC%B8%B5",
+    "naver_map": "https://map.naver.com/v5/search/%EC%9B%94%EB%AA%85%EB%A1%9C%2083%2C%201%EC%B8%B5"
+  },
+  {
+    "id": 40,
+    "name": "인형뽑기 오락실",
+    "address": "시)8방 (청-125호",
+    "google_map": "https://www.google.com/maps?q=%EC%8B%9C%298%EB%B0%A9%20%28%EC%B2%AD-125%ED%98%B8",
+    "naver_map": "https://map.naver.com/v5/search/%EC%8B%9C%298%EB%B0%A9%20%28%EC%B2%AD-125%ED%98%B8"
+  },
+  {
+    "id": 41,
+    "name": "인형뽑기 오락실",
+    "address": "경기도 양주시 옥정동로7다길 12-21, 폴리프라자",
+    "google_map": "https://www.google.com/maps?q=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%96%91%EC%A3%BC%EC%8B%9C%20%EC%98%A5%EC%A0%95%EB%8F%99%EB%A1%9C7%EB%8B%A4%EA%B8%B8%2012-21%2C%20%ED%8F%B4%EB%A6%AC%ED%94%84%EB%9D%BC%EC%9E%90",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%96%91%EC%A3%BC%EC%8B%9C%20%EC%98%A5%EC%A0%95%EB%8F%99%EB%A1%9C7%EB%8B%A4%EA%B8%B8%2012-21%2C%20%ED%8F%B4%EB%A6%AC%ED%94%84%EB%9D%BC%EC%9E%90"
+  },
+  {
+    "id": 42,
+    "name": "인형뽑기 오락실",
+    "address": "대안동 17-5",
+    "google_map": "https://www.google.com/maps?q=%EB%8C%80%EC%95%88%EB%8F%99%2017-5",
+    "naver_map": "https://map.naver.com/v5/search/%EB%8C%80%EC%95%88%EB%8F%99%2017-5"
+  },
+  {
+    "id": 43,
+    "name": "인형뽑기 오락실",
+    "address": "촉석로 186, 1층 (",
+    "google_map": "https://www.google.com/maps?q=%EC%B4%89%EC%84%9D%EB%A1%9C%20186%2C%201%EC%B8%B5%20%28",
+    "naver_map": "https://map.naver.com/v5/search/%EC%B4%89%EC%84%9D%EB%A1%9C%20186%2C%201%EC%B8%B5%20%28"
+  },
+  {
+    "id": 44,
+    "name": "인형뽑기 오락실",
+    "address": "한강1로51번",
+    "google_map": "https://www.google.com/maps?q=%ED%95%9C%EA%B0%951%EB%A1%9C51%EB%B2%88",
+    "naver_map": "https://map.naver.com/v5/search/%ED%95%9C%EA%B0%951%EB%A1%9C51%EB%B2%88"
+  },
+  {
+    "id": 45,
+    "name": "인형뽑기 오락실",
+    "address": "효자동3가 1535-6",
+    "google_map": "https://www.google.com/maps?q=%ED%9A%A8%EC%9E%90%EB%8F%993%EA%B0%80%201535-6",
+    "naver_map": "https://map.naver.com/v5/search/%ED%9A%A8%EC%9E%90%EB%8F%993%EA%B0%80%201535-6"
+  },
+  {
+    "id": 46,
+    "name": "인형뽑기 오락실",
+    "address": "계림로 97-1 (",
+    "google_map": "https://www.google.com/maps?q=%EA%B3%84%EB%A6%BC%EB%A1%9C%2097-1%20%28",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B3%84%EB%A6%BC%EB%A1%9C%2097-1%20%28"
+  },
+  {
+    "id": 47,
+    "name": "인형뽑기 오락실",
+    "address": "징 스톰, 더 비시바시, 철권테그토너먼트, 뉴",
+    "google_map": "https://www.google.com/maps?q=%EC%A7%95%20%EC%8A%A4%ED%86%B0%2C%20%EB%8D%94%20%EB%B9%84%EC%8B%9C%EB%B0%94%EC%8B%9C%2C%20%EC%B2%A0%EA%B6%8C%ED%85%8C%EA%B7%B8%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8%2C%20%EB%89%B4",
+    "naver_map": "https://map.naver.com/v5/search/%EC%A7%95%20%EC%8A%A4%ED%86%B0%2C%20%EB%8D%94%20%EB%B9%84%EC%8B%9C%EB%B0%94%EC%8B%9C%2C%20%EC%B2%A0%EA%B6%8C%ED%85%8C%EA%B7%B8%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8%2C%20%EB%89%B4"
+  },
+  {
+    "id": 48,
+    "name": "인형뽑기 오락실",
+    "address": "전라남도 광양시",
+    "google_map": "https://www.google.com/maps?q=%EC%A0%84%EB%9D%BC%EB%82%A8%EB%8F%84%20%EA%B4%91%EC%96%91%EC%8B%9C",
+    "naver_map": "https://map.naver.com/v5/search/%EC%A0%84%EB%9D%BC%EB%82%A8%EB%8F%84%20%EA%B4%91%EC%96%91%EC%8B%9C"
+  },
+  {
+    "id": 49,
+    "name": "인형뽑기 오락실",
+    "address": "용강리 869-5",
+    "google_map": "https://www.google.com/maps?q=%EC%9A%A9%EA%B0%95%EB%A6%AC%20869-5",
+    "naver_map": "https://map.naver.com/v5/search/%EC%9A%A9%EA%B0%95%EB%A6%AC%20869-5"
+  },
+  {
+    "id": 50,
+    "name": "인형뽑기 오락실",
+    "address": "건버드2, 러브푸시",
+    "google_map": "https://www.google.com/maps?q=%EA%B1%B4%EB%B2%84%EB%93%9C2%2C%20%EB%9F%AC%EB%B8%8C%ED%91%B8%EC%8B%9C",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B1%B4%EB%B2%84%EB%93%9C2%2C%20%EB%9F%AC%EB%B8%8C%ED%91%B8%EC%8B%9C"
+  },
+  {
+    "id": 51,
+    "name": "우리동네 놀이터",
+    "address": "우리동네 놀이터",
+    "google_map": "https://www.google.com/maps?q=%EC%9A%B0%EB%A6%AC%EB%8F%99%EB%84%A4%20%EB%86%80%EC%9D%B4%ED%84%B0",
+    "naver_map": "https://map.naver.com/v5/search/%EC%9A%B0%EB%A6%AC%EB%8F%99%EB%84%A4%20%EB%86%80%EC%9D%B4%ED%84%B0"
+  },
+  {
+    "id": 52,
+    "name": "인형뽑기 오락실",
+    "address": "당가0 22, 1층 (",
+    "google_map": "https://www.google.com/maps?q=%EB%8B%B9%EA%B0%800%2022%2C%201%EC%B8%B5%20%28",
+    "naver_map": "https://map.naver.com/v5/search/%EB%8B%B9%EA%B0%800%2022%2C%201%EC%B8%B5%20%28"
+  },
+  {
+    "id": 53,
+    "name": "인형뽑기 오락실",
+    "address": "신안군 임자면",
+    "google_map": "https://www.google.com/maps?q=%EC%8B%A0%EC%95%88%EA%B5%B0%20%EC%9E%84%EC%9E%90%EB%A9%B4",
+    "naver_map": "https://map.naver.com/v5/search/%EC%8B%A0%EC%95%88%EA%B5%B0%20%EC%9E%84%EC%9E%90%EB%A9%B4"
+  },
+  {
+    "id": 54,
+    "name": "인형뽑기 오락실",
+    "address": "경기도 고양시 덕양구 화정동 981-2",
+    "google_map": "https://www.google.com/maps?q=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%99%94%EC%A0%95%EB%8F%99%20981-2",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%99%94%EC%A0%95%EB%8F%99%20981-2"
+  },
+  {
+    "id": 55,
+    "name": "인형뽑기 오락실",
+    "address": "로272번길 42, 1층 104호 (",
+    "google_map": "https://www.google.com/maps?q=%EB%A1%9C272%EB%B2%88%EA%B8%B8%2042%2C%201%EC%B8%B5%20104%ED%98%B8%20%28",
+    "naver_map": "https://map.naver.com/v5/search/%EB%A1%9C272%EB%B2%88%EA%B8%B8%2042%2C%201%EC%B8%B5%20104%ED%98%B8%20%28"
+  },
+  {
+    "id": 56,
+    "name": "인형뽑기 오락실",
+    "address": "숭실프라자 113호",
+    "google_map": "https://www.google.com/maps?q=%EC%88%AD%EC%8B%A4%ED%94%84%EB%9D%BC%EC%9E%90%20113%ED%98%B8",
+    "naver_map": "https://map.naver.com/v5/search/%EC%88%AD%EC%8B%A4%ED%94%84%EB%9D%BC%EC%9E%90%20113%ED%98%B8"
+  },
+  {
+    "id": 57,
+    "name": "인형뽑기 오락실",
+    "address": "빌딩 102-104,121-135",
+    "google_map": "https://www.google.com/maps?q=%EB%B9%8C%EB%94%A9%20102-104%2C121-135",
+    "naver_map": "https://map.naver.com/v5/search/%EB%B9%8C%EB%94%A9%20102-104%2C121-135"
+  },
+  {
+    "id": 58,
+    "name": "인형뽑기 오락실",
+    "address": "한강9로759",
+    "google_map": "https://www.google.com/maps?q=%ED%95%9C%EA%B0%959%EB%A1%9C759",
+    "naver_map": "https://map.naver.com/v5/search/%ED%95%9C%EA%B0%959%EB%A1%9C759"
+  },
+  {
+    "id": 59,
+    "name": "인형뽑기 오락실",
+    "address": "컨피네스 오션스위트 상가",
+    "google_map": "https://www.google.com/maps?q=%EC%BB%A8%ED%94%BC%EB%84%A4%EC%8A%A4%20%EC%98%A4%EC%85%98%EC%8A%A4%EC%9C%84%ED%8A%B8%20%EC%83%81%EA%B0%80",
+    "naver_map": "https://map.naver.com/v5/search/%EC%BB%A8%ED%94%BC%EB%84%A4%EC%8A%A4%20%EC%98%A4%EC%85%98%EC%8A%A4%EC%9C%84%ED%8A%B8%20%EC%83%81%EA%B0%80"
+  },
+  {
+    "id": 60,
+    "name": "인형뽑기 오락실",
+    "address": "당동 1056",
+    "google_map": "https://www.google.com/maps?q=%EB%8B%B9%EB%8F%99%201056",
+    "naver_map": "https://map.naver.com/v5/search/%EB%8B%B9%EB%8F%99%201056"
+  },
+  {
+    "id": 61,
+    "name": "인형뽑기 오락실",
+    "address": "경상북도 포항시 남구",
+    "google_map": "https://www.google.com/maps?q=%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%ED%8F%AC%ED%95%AD%EC%8B%9C%20%EB%82%A8%EA%B5%AC",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%ED%8F%AC%ED%95%AD%EC%8B%9C%20%EB%82%A8%EA%B5%AC"
+  },
+  {
+    "id": 62,
+    "name": "인형뽑기 오락실",
+    "address": "동 33-141번지",
+    "google_map": "https://www.google.com/maps?q=%EB%8F%99%2033-141%EB%B2%88%EC%A7%80",
+    "naver_map": "https://map.naver.com/v5/search/%EB%8F%99%2033-141%EB%B2%88%EC%A7%80"
+  },
+  {
+    "id": 63,
+    "name": "인형뽑기 오락실",
+    "address": "마로46번길 18 (",
+    "google_map": "https://www.google.com/maps?q=%EB%A7%88%EB%A1%9C46%EB%B2%88%EA%B8%B8%2018%20%28",
+    "naver_map": "https://map.naver.com/v5/search/%EB%A7%88%EB%A1%9C46%EB%B2%88%EA%B8%B8%2018%20%28"
+  },
+  {
+    "id": 64,
+    "name": "인형뽑기 오락실",
+    "address": "천읍 구정리 45-1",
+    "google_map": "https://www.google.com/maps?q=%EC%B2%9C%EC%9D%8D%20%EA%B5%AC%EC%A0%95%EB%A6%AC%2045-1",
+    "naver_map": "https://map.naver.com/v5/search/%EC%B2%9C%EC%9D%8D%20%EA%B5%AC%EC%A0%95%EB%A6%AC%2045-1"
+  },
+  {
+    "id": 65,
+    "name": "인형뽑기 오락실",
+    "address": "서동로 93, 2층 (",
+    "google_map": "https://www.google.com/maps?q=%EC%84%9C%EB%8F%99%EB%A1%9C%2093%2C%202%EC%B8%B5%20%28",
+    "naver_map": "https://map.naver.com/v5/search/%EC%84%9C%EB%8F%99%EB%A1%9C%2093%2C%202%EC%B8%B5%20%28"
+  },
+  {
+    "id": 66,
+    "name": "인형뽑기 오락실",
+    "address": "비시바시,철권태그토너먼트",
+    "google_map": "https://www.google.com/maps?q=%EB%B9%84%EC%8B%9C%EB%B0%94%EC%8B%9C%2C%EC%B2%A0%EA%B6%8C%ED%83%9C%EA%B7%B8%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8",
+    "naver_map": "https://map.naver.com/v5/search/%EB%B9%84%EC%8B%9C%EB%B0%94%EC%8B%9C%2C%EC%B2%A0%EA%B6%8C%ED%83%9C%EA%B7%B8%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8"
+  },
+  {
+    "id": 67,
+    "name": "인형뽑기 오락실",
+    "address": "경상남도 고성군",
+    "google_map": "https://www.google.com/maps?q=%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%20%EA%B3%A0%EC%84%B1%EA%B5%B0",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%20%EA%B3%A0%EC%84%B1%EA%B5%B0"
+  },
+  {
+    "id": 68,
+    "name": "인형뽑기 오락실",
+    "address": "읍 성내리 226-3번지",
+    "google_map": "https://www.google.com/maps?q=%EC%9D%8D%20%EC%84%B1%EB%82%B4%EB%A6%AC%20226-3%EB%B2%88%EC%A7%80",
+    "naver_map": "https://map.naver.com/v5/search/%EC%9D%8D%20%EC%84%B1%EB%82%B4%EB%A6%AC%20226-3%EB%B2%88%EC%A7%80"
+  },
+  {
+    "id": 69,
+    "name": "인형뽑기 오락실",
+    "address": "럭셔리자이언트, 코만도, 피닉스, 드래곤펀치, 데스페라도3",
+    "google_map": "https://www.google.com/maps?q=%EB%9F%AD%EC%85%94%EB%A6%AC%EC%9E%90%EC%9D%B4%EC%96%B8%ED%8A%B8%2C%20%EC%BD%94%EB%A7%8C%EB%8F%84%2C%20%ED%94%BC%EB%8B%89%EC%8A%A4%2C%20%EB%93%9C%EB%9E%98%EA%B3%A4%ED%8E%80%EC%B9%98%2C%20%EB%8D%B0%EC%8A%A4%ED%8E%98%EB%9D%BC%EB%8F%843",
+    "naver_map": "https://map.naver.com/v5/search/%EB%9F%AD%EC%85%94%EB%A6%AC%EC%9E%90%EC%9D%B4%EC%96%B8%ED%8A%B8%2C%20%EC%BD%94%EB%A7%8C%EB%8F%84%2C%20%ED%94%BC%EB%8B%89%EC%8A%A4%2C%20%EB%93%9C%EB%9E%98%EA%B3%A4%ED%8E%80%EC%B9%98%2C%20%EB%8D%B0%EC%8A%A4%ED%8E%98%EB%9D%BC%EB%8F%843"
+  },
+  {
+    "id": 70,
+    "name": "인형뽑기 오락실",
+    "address": "서울특별시 도봉구\r\n로145길 69, 1층 (방학동)",
+    "google_map": "https://www.google.com/maps?q=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%84%EB%B4%89%EA%B5%AC%0D%0A%EB%A1%9C145%EA%B8%B8%2069%2C%201%EC%B8%B5%20%28%EB%B0%A9%ED%95%99%EB%8F%99%29",
+    "naver_map": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%84%EB%B4%89%EA%B5%AC%0D%0A%EB%A1%9C145%EA%B8%B8%2069%2C%201%EC%B8%B5%20%28%EB%B0%A9%ED%95%99%EB%8F%99%29"
+  },
+  {
+    "id": 71,
+    "name": "인형뽑기 오락실",
+    "address": "화명동 2275-1 센츄리빌딩",
+    "google_map": "https://www.google.com/maps?q=%ED%99%94%EB%AA%85%EB%8F%99%202275-1%20%EC%84%BC%EC%B8%84%EB%A6%AC%EB%B9%8C%EB%94%A9",
+    "naver_map": "https://map.naver.com/v5/search/%ED%99%94%EB%AA%85%EB%8F%99%202275-1%20%EC%84%BC%EC%B8%84%EB%A6%AC%EB%B9%8C%EB%94%A9"
+  },
+  {
+    "id": 72,
+    "name": "인형뽑기 오락실",
+    "address": "봉우재로33",
+    "google_map": "https://www.google.com/maps?q=%EB%B4%89%EC%9A%B0%EC%9E%AC%EB%A1%9C33",
+    "naver_map": "https://map.naver.com/v5/search/%EB%B4%89%EC%9A%B0%EC%9E%AC%EB%A1%9C33"
+  },
+  {
+    "id": 73,
+    "name": "인형뽑기 오락실",
+    "address": "곡군 왜관읍\r\n4리 1482-3",
+    "google_map": "https://www.google.com/maps?q=%EA%B3%A1%EA%B5%B0%20%EC%99%9C%EA%B4%80%EC%9D%8D%0D%0A4%EB%A6%AC%201482-3",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B3%A1%EA%B5%B0%20%EC%99%9C%EA%B4%80%EC%9D%8D%0D%0A4%EB%A6%AC%201482-3"
+  },
+  {
+    "id": 74,
+    "name": "인형뽑기 오락실",
+    "address": "리나부페웨딩홀",
+    "google_map": "https://www.google.com/maps?q=%EB%A6%AC%EB%82%98%EB%B6%80%ED%8E%98%EC%9B%A8%EB%94%A9%ED%99%80",
+    "naver_map": "https://map.naver.com/v5/search/%EB%A6%AC%EB%82%98%EB%B6%80%ED%8E%98%EC%9B%A8%EB%94%A9%ED%99%80"
+  },
+  {
+    "id": 75,
+    "name": "인형뽑기 오락실",
+    "address": "언리미티드(2)6",
+    "google_map": "https://www.google.com/maps?q=%EC%96%B8%EB%A6%AC%EB%AF%B8%ED%8B%B0%EB%93%9C%282%296",
+    "naver_map": "https://map.naver.com/v5/search/%EC%96%B8%EB%A6%AC%EB%AF%B8%ED%8B%B0%EB%93%9C%282%296"
+  },
+  {
+    "id": 76,
+    "name": "인형뽑기 오락실",
+    "address": "울특별시 노원구 석계로 98-1, 104호 (월계동)",
+    "google_map": "https://www.google.com/maps?q=%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%85%B8%EC%9B%90%EA%B5%AC%20%EC%84%9D%EA%B3%84%EB%A1%9C%2098-1%2C%20104%ED%98%B8%20%28%EC%9B%94%EA%B3%84%EB%8F%99%29",
+    "naver_map": "https://map.naver.com/v5/search/%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%85%B8%EC%9B%90%EA%B5%AC%20%EC%84%9D%EA%B3%84%EB%A1%9C%2098-1%2C%20104%ED%98%B8%20%28%EC%9B%94%EA%B3%84%EB%8F%99%29"
+  },
+  {
+    "id": 77,
+    "name": "인형뽑기 오락실",
+    "address": "화곡동 905-9번지 2층",
+    "google_map": "https://www.google.com/maps?q=%ED%99%94%EA%B3%A1%EB%8F%99%20905-9%EB%B2%88%EC%A7%80%202%EC%B8%B5",
+    "naver_map": "https://map.naver.com/v5/search/%ED%99%94%EA%B3%A1%EB%8F%99%20905-9%EB%B2%88%EC%A7%80%202%EC%B8%B5"
+  },
+  {
+    "id": 78,
+    "name": "인형뽑기 오락실",
+    "address": "로5나길 32,",
+    "google_map": "https://www.google.com/maps?q=%EB%A1%9C5%EB%82%98%EA%B8%B8%2032%2C",
+    "naver_map": "https://map.naver.com/v5/search/%EB%A1%9C5%EB%82%98%EA%B8%B8%2032%2C"
+  },
+  {
+    "id": 79,
+    "name": "인형뽑기 오락실",
+    "address": "임페리얼타워 103호",
+    "google_map": "https://www.google.com/maps?q=%EC%9E%84%ED%8E%98%EB%A6%AC%EC%96%BC%ED%83%80%EC%9B%8C%20103%ED%98%B8",
+    "naver_map": "https://map.naver.com/v5/search/%EC%9E%84%ED%8E%98%EB%A6%AC%EC%96%BC%ED%83%80%EC%9B%8C%20103%ED%98%B8"
+  },
+  {
+    "id": 80,
+    "name": "인형뽑기 오락실",
+    "address": "가로공원로76",
+    "google_map": "https://www.google.com/maps?q=%EA%B0%80%EB%A1%9C%EA%B3%B5%EC%9B%90%EB%A1%9C76",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B0%80%EB%A1%9C%EA%B3%B5%EC%9B%90%EB%A1%9C76"
+  },
+  {
+    "id": 81,
+    "name": "인형뽑기 오락실",
+    "address": "마포구 연\r  228-45",
+    "google_map": "https://www.google.com/maps?q=%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EC%97%B0%0D%20%20228-45",
+    "naver_map": "https://map.naver.com/v5/search/%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EC%97%B0%0D%20%20228-45"
+  },
+  {
+    "id": 82,
+    "name": "인형뽑기 오락실",
+    "address": "드컵북로48",
+    "google_map": "https://www.google.com/maps?q=%EB%93%9C%EC%BB%B5%EB%B6%81%EB%A1%9C48",
+    "naver_map": "https://map.naver.com/v5/search/%EB%93%9C%EC%BB%B5%EB%B6%81%EB%A1%9C48"
+  },
+  {
+    "id": 83,
+    "name": "인형뽑기 오락실",
+    "address": "푸르지오시티)",
+    "google_map": "https://www.google.com/maps?q=%ED%91%B8%EB%A5%B4%EC%A7%80%EC%98%A4%EC%8B%9C%ED%8B%B0%29",
+    "naver_map": "https://map.naver.com/v5/search/%ED%91%B8%EB%A5%B4%EC%A7%80%EC%98%A4%EC%8B%9C%ED%8B%B0%29"
+  },
+  {
+    "id": 84,
+    "name": "인형뽑기 오락실",
+    "address": "역 지웰에스테이트 105호",
+    "google_map": "https://www.google.com/maps?q=%EC%97%AD%20%EC%A7%80%EC%9B%B0%EC%97%90%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20105%ED%98%B8",
+    "naver_map": "https://map.naver.com/v5/search/%EC%97%AD%20%EC%A7%80%EC%9B%B0%EC%97%90%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20105%ED%98%B8"
+  },
+  {
+    "id": 85,
+    "name": "인형뽑기 오락실",
+    "address": "서울특별시 동대문구 천호",
+    "google_map": "https://www.google.com/maps?q=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%99%EB%8C%80%EB%AC%B8%EA%B5%AC%20%EC%B2%9C%ED%98%B8",
+    "naver_map": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%99%EB%8C%80%EB%AC%B8%EA%B5%AC%20%EC%B2%9C%ED%98%B8"
+  },
+  {
+    "id": 86,
+    "name": "인형뽑기 오락실",
+    "address": "완동 1077",
+    "google_map": "https://www.google.com/maps?q=%EC%99%84%EB%8F%99%201077",
+    "naver_map": "https://map.naver.com/v5/search/%EC%99%84%EB%8F%99%201077"
+  },
+  {
+    "id": 87,
+    "name": "인형뽑기 오락실",
+    "address": "무로4가 15-18",
+    "google_map": "https://www.google.com/maps?q=%EB%AC%B4%EB%A1%9C4%EA%B0%80%2015-18",
+    "naver_map": "https://map.naver.com/v5/search/%EB%AC%B4%EB%A1%9C4%EA%B0%80%2015-18"
+  },
+  {
+    "id": 88,
+    "name": "인형뽑기 오락실",
+    "address": "트럴시티(터미널복합) 426",
+    "google_map": "https://www.google.com/maps?q=%ED%8A%B8%EB%9F%B4%EC%8B%9C%ED%8B%B0%28%ED%84%B0%EB%AF%B8%EB%84%90%EB%B3%B5%ED%95%A9%29%20426",
+    "naver_map": "https://map.naver.com/v5/search/%ED%8A%B8%EB%9F%B4%EC%8B%9C%ED%8B%B0%28%ED%84%B0%EB%AF%B8%EB%84%90%EB%B3%B5%ED%95%A9%29%20426"
+  },
+  {
+    "id": 89,
+    "name": "인형뽑기 오락실",
+    "address": "오송읍 봉산리 1001 109",
+    "google_map": "https://www.google.com/maps?q=%EC%98%A4%EC%86%A1%EC%9D%8D%20%EB%B4%89%EC%82%B0%EB%A6%AC%201001%20109",
+    "naver_map": "https://map.naver.com/v5/search/%EC%98%A4%EC%86%A1%EC%9D%8D%20%EB%B4%89%EC%82%B0%EB%A6%AC%201001%20109"
+  },
+  {
+    "id": 90,
+    "name": "인형뽑기 오락실",
+    "address": "앙로164번",
+    "google_map": "https://www.google.com/maps?q=%EC%95%99%EB%A1%9C164%EB%B2%88",
+    "naver_map": "https://map.naver.com/v5/search/%EC%95%99%EB%A1%9C164%EB%B2%88"
+  },
+  {
+    "id": 91,
+    "name": "인형뽑기 오락실",
+    "address": "광나루로24",
+    "google_map": "https://www.google.com/maps?q=%EA%B4%91%EB%82%98%EB%A3%A8%EB%A1%9C24",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B4%91%EB%82%98%EB%A3%A8%EB%A1%9C24"
+  },
+  {
+    "id": 92,
+    "name": "인형뽑기 오락실",
+    "address": "전북특별자치도 익산시 영등동 149-1",
+    "google_map": "https://www.google.com/maps?q=%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%9D%B5%EC%82%B0%EC%8B%9C%20%EC%98%81%EB%93%B1%EB%8F%99%20149-1",
+    "naver_map": "https://map.naver.com/v5/search/%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%9D%B5%EC%82%B0%EC%8B%9C%20%EC%98%81%EB%93%B1%EB%8F%99%20149-1"
+  },
+  {
+    "id": 93,
+    "name": "인형뽑기 오락실",
+    "address": "무왕로 1052,",
+    "google_map": "https://www.google.com/maps?q=%EB%AC%B4%EC%99%95%EB%A1%9C%201052%2C",
+    "naver_map": "https://map.naver.com/v5/search/%EB%AC%B4%EC%99%95%EB%A1%9C%201052%2C"
+  },
+  {
+    "id": 94,
+    "name": "인형뽑기 오락실",
+    "address": "동1가 1261-20 21호",
+    "google_map": "https://www.google.com/maps?q=%EB%8F%991%EA%B0%80%201261-20%2021%ED%98%B8",
+    "naver_map": "https://map.naver.com/v5/search/%EB%8F%991%EA%B0%80%201261-20%2021%ED%98%B8"
+  },
+  {
+    "id": 95,
+    "name": "인형뽑기 오락실",
+    "address": "륜4길 17-5 (",
+    "google_map": "https://www.google.com/maps?q=%EB%A5%9C4%EA%B8%B8%2017-5%20%28",
+    "naver_map": "https://map.naver.com/v5/search/%EB%A5%9C4%EA%B8%B8%2017-5%20%28"
+  },
+  {
+    "id": 96,
+    "name": "인형뽑기 오락실",
+    "address": "마산리 417-12",
+    "google_map": "https://www.google.com/maps?q=%EB%A7%88%EC%82%B0%EB%A6%AC%20417-12",
+    "naver_map": "https://map.naver.com/v5/search/%EB%A7%88%EC%82%B0%EB%A6%AC%20417-12"
+  },
+  {
+    "id": 97,
+    "name": "인형뽑기 오락실",
+    "address": "대호만로 2301, 나",
+    "google_map": "https://www.google.com/maps?q=%EB%8C%80%ED%98%B8%EB%A7%8C%EB%A1%9C%202301%2C%20%EB%82%98",
+    "naver_map": "https://map.naver.com/v5/search/%EB%8C%80%ED%98%B8%EB%A7%8C%EB%A1%9C%202301%2C%20%EB%82%98"
+  },
+  {
+    "id": 98,
+    "name": "인형뽑기 오락실",
+    "address": "두리 1048-4",
+    "google_map": "https://www.google.com/maps?q=%EB%91%90%EB%A6%AC%201048-4",
+    "naver_map": "https://map.naver.com/v5/search/%EB%91%90%EB%A6%AC%201048-4"
+  },
+  {
+    "id": 99,
+    "name": "인형뽑기 오락실",
+    "address": "펀존(청-168호",
+    "google_map": "https://www.google.com/maps?q=%ED%8E%80%EC%A1%B4%28%EC%B2%AD-168%ED%98%B8",
+    "naver_map": "https://map.naver.com/v5/search/%ED%8E%80%EC%A1%B4%28%EC%B2%AD-168%ED%98%B8"
+  },
+  {
+    "id": 100,
+    "name": "인형뽑기 오락실",
+    "address": "달(대로301",
+    "google_map": "https://www.google.com/maps?q=%EB%8B%AC%28%EB%8C%80%EB%A1%9C301",
+    "naver_map": "https://map.naver.com/v5/search/%EB%8B%AC%28%EB%8C%80%EB%A1%9C301"
+  },
+  {
+    "id": 101,
+    "name": "인형뽑기 오락실",
+    "address": "구 반포동 19-11 강남고속터미널역",
+    "google_map": "https://www.google.com/maps?q=%EA%B5%AC%20%EB%B0%98%ED%8F%AC%EB%8F%99%2019-11%20%EA%B0%95%EB%82%A8%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%AD",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B5%AC%20%EB%B0%98%ED%8F%AC%EB%8F%99%2019-11%20%EA%B0%95%EB%82%A8%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%AD"
+  },
+  {
+    "id": 102,
+    "name": "인형뽑기 오락실",
+    "address": "순환로215번길 20,.",
+    "google_map": "https://www.google.com/maps?q=%EC%88%9C%ED%99%98%EB%A1%9C215%EB%B2%88%EA%B8%B8%2020%2C.",
+    "naver_map": "https://map.naver.com/v5/search/%EC%88%9C%ED%99%98%EB%A1%9C215%EB%B2%88%EA%B8%B8%2020%2C."
+  },
+  {
+    "id": 103,
+    "name": "인형뽑기 오락실",
+    "address": "리틀햄머, 더타겟,",
+    "google_map": "https://www.google.com/maps?q=%EB%A6%AC%ED%8B%80%ED%96%84%EB%A8%B8%2C%20%EB%8D%94%ED%83%80%EA%B2%9F%2C",
+    "naver_map": "https://map.naver.com/v5/search/%EB%A6%AC%ED%8B%80%ED%96%84%EB%A8%B8%2C%20%EB%8D%94%ED%83%80%EA%B2%9F%2C"
+  },
+  {
+    "id": 104,
+    "name": "인형뽑기 오락실",
+    "address": "동1가 522-1",
+    "google_map": "https://www.google.com/maps?q=%EB%8F%991%EA%B0%80%20522-1",
+    "naver_map": "https://map.naver.com/v5/search/%EB%8F%991%EA%B0%80%20522-1"
+  },
+  {
+    "id": 105,
+    "name": "인형뽑기 오락실",
+    "address": "셔리 자이언트",
+    "google_map": "https://www.google.com/maps?q=%EC%85%94%EB%A6%AC%20%EC%9E%90%EC%9D%B4%EC%96%B8%ED%8A%B8",
+    "naver_map": "https://map.naver.com/v5/search/%EC%85%94%EB%A6%AC%20%EC%9E%90%EC%9D%B4%EC%96%B8%ED%8A%B8"
+  },
+  {
+    "id": 106,
+    "name": "인형뽑기 오락실",
+    "address": "백제고분로7",
+    "google_map": "https://www.google.com/maps?q=%EB%B0%B1%EC%A0%9C%EA%B3%A0%EB%B6%84%EB%A1%9C7",
+    "naver_map": "https://map.naver.com/v5/search/%EB%B0%B1%EC%A0%9C%EA%B3%A0%EB%B6%84%EB%A1%9C7"
+  },
+  {
+    "id": 107,
+    "name": "인형뽑기 오락실",
+    "address": "울마루로 37-1",
+    "google_map": "https://www.google.com/maps?q=%EC%9A%B8%EB%A7%88%EB%A3%A8%EB%A1%9C%2037-1",
+    "naver_map": "https://map.naver.com/v5/search/%EC%9A%B8%EB%A7%88%EB%A3%A8%EB%A1%9C%2037-1"
+  },
+  {
+    "id": 108,
+    "name": "인형뽑기 오락실",
+    "address": "경상남도 의령군\r\n읍 중동리 386-22 한농농약종묘사",
+    "google_map": "https://www.google.com/maps?q=%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%20%EC%9D%98%EB%A0%B9%EA%B5%B0%0D%0A%EC%9D%8D%20%EC%A4%91%EB%8F%99%EB%A6%AC%20386-22%20%ED%95%9C%EB%86%8D%EB%86%8D%EC%95%BD%EC%A2%85%EB%AC%98%EC%82%AC",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%20%EC%9D%98%EB%A0%B9%EA%B5%B0%0D%0A%EC%9D%8D%20%EC%A4%91%EB%8F%99%EB%A6%AC%20386-22%20%ED%95%9C%EB%86%8D%EB%86%8D%EC%95%BD%EC%A2%85%EB%AC%98%EC%82%AC"
+  },
+  {
+    "id": 109,
+    "name": "인형뽑기 오락실",
+    "address": "층 (남포동5가)",
+    "google_map": "https://www.google.com/maps?q=%EC%B8%B5%20%28%EB%82%A8%ED%8F%AC%EB%8F%995%EA%B0%80%29",
+    "naver_map": "https://map.naver.com/v5/search/%EC%B8%B5%20%28%EB%82%A8%ED%8F%AC%EB%8F%995%EA%B0%80%29"
+  },
+  {
+    "id": 110,
+    "name": "인형뽑기 오락실",
+    "address": "수동 913-2",
+    "google_map": "https://www.google.com/maps?q=%EC%88%98%EB%8F%99%20913-2",
+    "naver_map": "https://map.naver.com/v5/search/%EC%88%98%EB%8F%99%20913-2"
+  },
+  {
+    "id": 111,
+    "name": "인형뽑기 오락실",
+    "address": "로196번길 19, 118",
+    "google_map": "https://www.google.com/maps?q=%EB%A1%9C196%EB%B2%88%EA%B8%B8%2019%2C%20118",
+    "naver_map": "https://map.naver.com/v5/search/%EB%A1%9C196%EB%B2%88%EA%B8%B8%2019%2C%20118"
+  },
+  {
+    "id": 112,
+    "name": "인형뽑기 오락실",
+    "address": "히든캐치,테트리스,",
+    "google_map": "https://www.google.com/maps?q=%ED%9E%88%EB%93%A0%EC%BA%90%EC%B9%98%2C%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%2C",
+    "naver_map": "https://map.naver.com/v5/search/%ED%9E%88%EB%93%A0%EC%BA%90%EC%B9%98%2C%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%2C"
+  },
+  {
+    "id": 113,
+    "name": "인형뽑기 오락실",
+    "address": "시티 210호,21",
+    "google_map": "https://www.google.com/maps?q=%EC%8B%9C%ED%8B%B0%20210%ED%98%B8%2C21",
+    "naver_map": "https://map.naver.com/v5/search/%EC%8B%9C%ED%8B%B0%20210%ED%98%B8%2C21"
+  },
+  {
+    "id": 114,
+    "name": "인형뽑기 오락실",
+    "address": "경상남도 창녕군",
+    "google_map": "https://www.google.com/maps?q=%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%20%EC%B0%BD%EB%85%95%EA%B5%B0",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%20%EC%B0%BD%EB%85%95%EA%B5%B0"
+  },
+  {
+    "id": 115,
+    "name": "인형뽑기 오락실",
+    "address": "읍 교하리 250-3번지",
+    "google_map": "https://www.google.com/maps?q=%EC%9D%8D%20%EA%B5%90%ED%95%98%EB%A6%AC%20250-3%EB%B2%88%EC%A7%80",
+    "naver_map": "https://map.naver.com/v5/search/%EC%9D%8D%20%EA%B5%90%ED%95%98%EB%A6%AC%20250-3%EB%B2%88%EC%A7%80"
+  },
+  {
+    "id": 116,
+    "name": "인형뽑기 오락실",
+    "address": "부산광역시 사하구 괴정동 957-51",
+    "google_map": "https://www.google.com/maps?q=%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%82%AC%ED%95%98%EA%B5%AC%20%EA%B4%B4%EC%A0%95%EB%8F%99%20957-51",
+    "naver_map": "https://map.naver.com/v5/search/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%82%AC%ED%95%98%EA%B5%AC%20%EA%B4%B4%EC%A0%95%EB%8F%99%20957-51"
+  },
+  {
+    "id": 117,
+    "name": "인형뽑기 오락실",
+    "address": "곰탱이 6대, 리드푸쉬 1",
+    "google_map": "https://www.google.com/maps?q=%EA%B3%B0%ED%83%B1%EC%9D%B4%206%EB%8C%80%2C%20%EB%A6%AC%EB%93%9C%ED%91%B8%EC%89%AC%201",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B3%B0%ED%83%B1%EC%9D%B4%206%EB%8C%80%2C%20%EB%A6%AC%EB%93%9C%ED%91%B8%EC%89%AC%201"
+  },
+  {
+    "id": 118,
+    "name": "인형뽑기 오락실",
+    "address": "로32나길 17-12, 3층 (",
+    "google_map": "https://www.google.com/maps?q=%EB%A1%9C32%EB%82%98%EA%B8%B8%2017-12%2C%203%EC%B8%B5%20%28",
+    "naver_map": "https://map.naver.com/v5/search/%EB%A1%9C32%EB%82%98%EA%B8%B8%2017-12%2C%203%EC%B8%B5%20%28"
+  },
+  {
+    "id": 119,
+    "name": "인형뽑기 오락실",
+    "address": "고산로211번",
+    "google_map": "https://www.google.com/maps?q=%EA%B3%A0%EC%82%B0%EB%A1%9C211%EB%B2%88",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B3%A0%EC%82%B0%EB%A1%9C211%EB%B2%88"
+  },
+  {
+    "id": 120,
+    "name": "인형뽑기 오락실",
+    "address": "수동 526-67",
+    "google_map": "https://www.google.com/maps?q=%EC%88%98%EB%8F%99%20526-67",
+    "naver_map": "https://map.naver.com/v5/search/%EC%88%98%EB%8F%99%20526-67"
+  },
+  {
+    "id": 121,
+    "name": "인형뽑기 오락실",
+    "address": "무등로 489-2",
+    "google_map": "https://www.google.com/maps?q=%EB%AC%B4%EB%93%B1%EB%A1%9C%20489-2",
+    "naver_map": "https://map.naver.com/v5/search/%EB%AC%B4%EB%93%B1%EB%A1%9C%20489-2"
+  },
+  {
+    "id": 122,
+    "name": "인형뽑기 오락실",
+    "address": "시간만 놀다가",
+    "google_map": "https://www.google.com/maps?q=%EC%8B%9C%EA%B0%84%EB%A7%8C%20%EB%86%80%EB%8B%A4%EA%B0%80",
+    "naver_map": "https://map.naver.com/v5/search/%EC%8B%9C%EA%B0%84%EB%A7%8C%20%EB%86%80%EB%8B%A4%EA%B0%80"
+  },
+  {
+    "id": 123,
+    "name": "인형뽑기 오락실",
+    "address": "충청남도 논산시 취암동 1049-2",
+    "google_map": "https://www.google.com/maps?q=%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%EB%85%BC%EC%82%B0%EC%8B%9C%20%EC%B7%A8%EC%95%94%EB%8F%99%201049-2",
+    "naver_map": "https://map.naver.com/v5/search/%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%EB%85%BC%EC%82%B0%EC%8B%9C%20%EC%B7%A8%EC%95%94%EB%8F%99%201049-2"
+  },
+  {
+    "id": 124,
+    "name": "인형뽑기 오락실",
+    "address": "앙로398번길 13-7, 1층 109호 (",
+    "google_map": "https://www.google.com/maps?q=%EC%95%99%EB%A1%9C398%EB%B2%88%EA%B8%B8%2013-7%2C%201%EC%B8%B5%20109%ED%98%B8%20%28",
+    "naver_map": "https://map.naver.com/v5/search/%EC%95%99%EB%A1%9C398%EB%B2%88%EA%B8%B8%2013-7%2C%201%EC%B8%B5%20109%ED%98%B8%20%28"
+  },
+  {
+    "id": 125,
+    "name": "인형뽑기 오락실",
+    "address": "아트프라자 112호",
+    "google_map": "https://www.google.com/maps?q=%EC%95%84%ED%8A%B8%ED%94%84%EB%9D%BC%EC%9E%90%20112%ED%98%B8",
+    "naver_map": "https://map.naver.com/v5/search/%EC%95%84%ED%8A%B8%ED%94%84%EB%9D%BC%EC%9E%90%20112%ED%98%B8"
+  },
+  {
+    "id": 126,
+    "name": "인형뽑기 오락실",
+    "address": "광덕1로 62,",
+    "google_map": "https://www.google.com/maps?q=%EA%B4%91%EB%8D%951%EB%A1%9C%2062%2C",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B4%91%EB%8D%951%EB%A1%9C%2062%2C"
+  },
+  {
+    "id": 127,
+    "name": "인형뽑기 오락실",
+    "address": "검단로744번1",
+    "google_map": "https://www.google.com/maps?q=%EA%B2%80%EB%8B%A8%EB%A1%9C744%EB%B2%881",
+    "naver_map": "https://map.naver.com/v5/search/%EA%B2%80%EB%8B%A8%EB%A1%9C744%EB%B2%881"
+  },
+  {
+    "id": 128,
+    "name": "인형뽑기 오락실",
+    "address": "여객자동차터",
+    "google_map": "https://www.google.com/maps?q=%EC%97%AC%EA%B0%9D%EC%9E%90%EB%8F%99%EC%B0%A8%ED%84%B0",
+    "naver_map": "https://map.naver.com/v5/search/%EC%97%AC%EA%B0%9D%EC%9E%90%EB%8F%99%EC%B0%A8%ED%84%B0"
+  },
+  {
+    "id": 129,
+    "name": "인형뽑기 오락실",
+    "address": "매곡리 1547-13",
+    "google_map": "https://www.google.com/maps?q=%EB%A7%A4%EA%B3%A1%EB%A6%AC%201547-13",
+    "naver_map": "https://map.naver.com/v5/search/%EB%A7%A4%EA%B3%A1%EB%A6%AC%201547-13"
+  },
+  {
+    "id": 130,
+    "name": "인형뽑기 오락실",
+    "address": "흥(5로 21-8",
+    "google_map": "https://www.google.com/maps?q=%ED%9D%A5%285%EB%A1%9C%2021-8",
+    "naver_map": "https://map.naver.com/v5/search/%ED%9D%A5%285%EB%A1%9C%2021-8"
+  }
+]
