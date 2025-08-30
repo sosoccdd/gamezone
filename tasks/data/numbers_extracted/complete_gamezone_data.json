@@ -1,0 +1,1877 @@
+{
+  "metadata": {
+    "title": "Claw Machine and Arcade Game Store Directory",
+    "description": "Complete dataset of claw machine and arcade game stores extracted from gamezone_data.numbers file",
+    "total_stores": 145,
+    "extraction_date": "2025-08-22",
+    "file_source": "gamezone_data.numbers"
+  },
+  "stores": [
+    {
+      "id": 42,
+      "name": "0(street hoops",
+      "addresses": [
+        "0627-004",
+        "10-28",
+        "332-8",
+        "627-004"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 58,
+      "name": "0), Doll House",
+      "addresses": [
+        "377-8",
+        "7-04",
+        "7-17"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 92,
+      "name": "0, minizzang+",
+      "addresses": [
+        "041-671",
+        "041-671-7000",
+        "2-56",
+        "212-23",
+        "410-8",
+        "759-6",
+        "765-81"
+      ],
+      "phone_numbers": [
+        "041-671-7000"
+      ],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 29,
+      "name": "0Beat and Dunk",
+      "addresses": [
+        "12-6",
+        "289-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 109,
+      "name": "1, LUCKY7, Beat and Dunk, Initial D 8 Infinity",
+      "addresses": [
+        "07-4",
+        "91-2",
+        "98-577"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 116,
+      "name": "1/DRAGON PUNCH2/Beat and Dunk",
+      "addresses": [
+        "3-05",
+        "5-32",
+        "5-50"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 117,
+      "name": "2(SPEED HOCKEY2",
+      "addresses": [
+        "495-15",
+        "681-7",
+        "747-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 52,
+      "name": "2(zzang",
+      "addresses": [
+        "09-432",
+        "311-955",
+        "311-9557",
+        "316-726",
+        "316-7260",
+        "60-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 63,
+      "name": "3, Doll House",
+      "addresses": [
+        "0315-0",
+        "315-0",
+        "439-15",
+        "883-10"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 38,
+      "name": "3, GGICCO PUSH",
+      "addresses": [
+        "599-6",
+        "79-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 35,
+      "name": "3P(LUXURY GIANT CATCHER",
+      "addresses": [
+        "031-768",
+        "031-768-267",
+        "65-3",
+        "716-4",
+        "880-8"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 134,
+      "name": "4'DEMON(",
+      "addresses": [
+        "1-15",
+        "1182-2",
+        "18-30",
+        "182-2",
+        "192-61",
+        "3-6"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 12,
+      "name": "4(LUXURY GIANTS",
+      "addresses": [
+        "1552-6",
+        "1571-6",
+        "198-8",
+        "552-6",
+        "571-6"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 57,
+      "name": "4(SPEED HOCKEY",
+      "addresses": [
+        "130-13",
+        "617-2",
+        "998-7"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 89,
+      "name": "4, Hidden CatchaY",
+      "addresses": [
+        "1-06",
+        "1-06-22",
+        "155-7",
+        "44-1",
+        "5-03",
+        "5-03-31",
+        "908-4",
+        "987-5"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 101,
+      "name": "41Doll House1",
+      "addresses": [
+        "1535-4",
+        "535-4",
+        "63-41",
+        "7-2",
+        "702-8",
+        "713-6",
+        "8-7"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 73,
+      "name": "4Hidden Catch 5",
+      "addresses": [
+        "100-8",
+        "72-55"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 124,
+      "name": "4dragon punch 2",
+      "addresses": [
+        "39-66",
+        "58-794",
+        "844-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 135,
+      "name": "5PRAINBOW CASTLE ALPHA)",
+      "addresses": [
+        "440-2",
+        "443-2"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 9,
+      "name": "6m' (TOYS POP",
+      "addresses": [
+        "1327-7",
+        "15-1",
+        "321-603",
+        "321-6036",
+        "327-7",
+        "4-10",
+        "588-007",
+        "588-0071",
+        "721-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 71,
+      "name": "8), Doll HouseI(",
+      "addresses": [
+        "775-8"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 125,
+      "name": "8NEW, Rainbow1, m",
+      "addresses": [
+        "39-66",
+        "448-9",
+        "844-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 84,
+      "name": "9DEMON+(",
+      "addresses": [
+        "116-2",
+        "205-2",
+        "31-4",
+        "346-46"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 54,
+      "name": "ALADDIN ALPHA)",
+      "addresses": [
+        "0-56",
+        "108-16",
+        "1550-2",
+        "2-2",
+        "316-12",
+        "337-1",
+        "5-4",
+        "550-2",
+        "56-15",
+        "87-4"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 10,
+      "name": "ALPHA)",
+      "addresses": [
+        "15-1",
+        "360-1",
+        "40-3",
+        "486-1",
+        "491-1",
+        "67-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 138,
+      "name": "ARCADEA",
+      "addresses": [
+        "25-3",
+        "54-1",
+        "616-4",
+        "723-2",
+        "76-7",
+        "81-2"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 132,
+      "name": "BLING POP3",
+      "addresses": [
+        "085-2",
+        "119-8",
+        "498-3",
+        "5-05",
+        "5-05-16",
+        "5-06",
+        "5-06-25",
+        "529-3",
+        "6085-2",
+        "612-3",
+        "888-4"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 11,
+      "name": "BP(NEW HAPPY TWIN MULTI",
+      "addresses": [
+        "360-1",
+        "486-1",
+        "67-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 20,
+      "name": "Bb@<ALADDIN ALPHA) 9",
+      "addresses": [
+        "002-4",
+        "85-2",
+        "898-9"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 74,
+      "name": "Beat and Dunk(",
+      "addresses": [
+        "3-6",
+        "63-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 123,
+      "name": "Bling Pop",
+      "addresses": [
+        "58-794",
+        "844-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 15,
+      "name": "CAPSULE ROBOT",
+      "addresses": [
+        "1-12"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 33,
+      "name": "COCO",
+      "addresses": [
+        "00-9",
+        "1732-3",
+        "1890-3",
+        "210-831",
+        "6-9",
+        "732-3",
+        "877-1",
+        "890-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 28,
+      "name": "COCO )",
+      "addresses": [
+        "489-3",
+        "79-1",
+        "803-88"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 78,
+      "name": "COCO ZZANG)",
+      "addresses": [
+        "031-873",
+        "031-873-3010",
+        "162-7",
+        "752-3",
+        "86-6",
+        "9-33"
+      ],
+      "phone_numbers": [
+        "031-873-3010"
+      ],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 8,
+      "name": "COCO ZZANG)-",
+      "addresses": [
+        "1327-7",
+        "1547-6",
+        "321-603",
+        "321-6036",
+        "327-7",
+        "542-1",
+        "547-6"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 21,
+      "name": "COCO ZZANG-",
+      "addresses": [
+        "054-774",
+        "054-774-530",
+        "85-2",
+        "898-9"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 39,
+      "name": "D, Doll House I",
+      "addresses": [
+        "005-2",
+        "1005-2",
+        "646-2",
+        "79-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 40,
+      "name": "DEMON",
+      "addresses": [
+        "005-2",
+        "1005-2",
+        "646-2",
+        "79-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 16,
+      "name": "DR), Beat and Dunk(",
+      "addresses": [
+        "1-12"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 51,
+      "name": "DRAGON PUNCH2)",
+      "addresses": [
+        "18-1",
+        "228-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 91,
+      "name": "DS POP)(4),Toys Pop",
+      "addresses": [
+        "1-02",
+        "2775-4",
+        "475-13",
+        "52-1",
+        "775-4",
+        "99-10"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 47,
+      "name": "DfDoll House I (9",
+      "addresses": [
+        "02-208",
+        "1523-7",
+        "2-0",
+        "5-01",
+        "5-01-3",
+        "5-30",
+        "523-7",
+        "8-789"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 120,
+      "name": "Doll House1",
+      "addresses": [
+        "3-1",
+        "32-9",
+        "343-3",
+        "54-5",
+        "966-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 143,
+      "name": "Fill Center",
+      "addresses": [],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 90,
+      "name": "GAME ZONE",
+      "addresses": [
+        "0131-37",
+        "0226-001",
+        "053-60",
+        "131-37",
+        "226-001",
+        "5-18",
+        "540-12",
+        "760-1",
+        "775-2"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 111,
+      "name": "GGICCO PUSH",
+      "addresses": [
+        "2-24",
+        "308-747",
+        "308-7471"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 4,
+      "name": "GIANT&PLAY ZONE",
+      "addresses": [
+        "09-18",
+        "3-26",
+        "39-4",
+        "442-4"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 85,
+      "name": "GIANTZ",
+      "addresses": [
+        "179-4",
+        "933-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 107,
+      "name": "Game Duck",
+      "addresses": [
+        "06-7",
+        "190-7",
+        "306-3",
+        "44-1",
+        "505-6",
+        "567-64",
+        "587-43",
+        "72-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 6,
+      "name": "Game Zone",
+      "addresses": [
+        "13-8",
+        "20-9",
+        "293-173",
+        "7-28",
+        "766-1",
+        "825-3",
+        "9-06",
+        "9-569",
+        "933-3",
+        "95-545",
+        "95-5457",
+        "98-230"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 31,
+      "name": "Gameplaza",
+      "addresses": [
+        "033-803",
+        "033-803-7953",
+        "095-1",
+        "137-1",
+        "16-4",
+        "75-5",
+        "89-87"
+      ],
+      "phone_numbers": [
+        "033-803-7953"
+      ],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 23,
+      "name": "GoodGame",
+      "addresses": [
+        "725-4",
+        "91-1",
+        "956-056",
+        "956-0567"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 131,
+      "name": "H), toys pop mini(23",
+      "addresses": [
+        "085-2",
+        "345-3",
+        "498-3",
+        "5-05",
+        "5-05-16",
+        "544-6",
+        "6085-2"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 145,
+      "name": "H-KoreanAlphaDecimal",
+      "addresses": [],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 105,
+      "name": "INITIAL D",
+      "addresses": [
+        "0427-0",
+        "062-522",
+        "062-522-9788",
+        "2-10",
+        "265-944",
+        "265-9445",
+        "284-2",
+        "427-0",
+        "460-3",
+        "49-2",
+        "662-6",
+        "829-1"
+      ],
+      "phone_numbers": [
+        "062-522-9788"
+      ],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 18,
+      "name": "IZ (TOYS POP",
+      "addresses": [
+        "064-739",
+        "064-739-9001",
+        "5-17",
+        "5-24"
+      ],
+      "phone_numbers": [
+        "064-739-9001"
+      ],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 129,
+      "name": "JokerGames",
+      "addresses": [
+        "1-08",
+        "217-9",
+        "4-11",
+        "4-11-26",
+        "6882-11",
+        "7-07",
+        "773-10",
+        "790-5",
+        "882-11"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 119,
+      "name": "KP, Mini butique Alpha",
+      "addresses": [
+        "032-325",
+        "032-325-133",
+        "152-8",
+        "35-5"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 87,
+      "name": "KiKi Zone2",
+      "addresses": [
+        "032-3",
+        "1418-83",
+        "418-83",
+        "59-52",
+        "9-20"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 75,
+      "name": "LInitial D 8 InfinityI",
+      "addresses": [
+        "05-14",
+        "1-2",
+        "310-4",
+        "428-1",
+        "490-5"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 121,
+      "name": "LUCKY7",
+      "addresses": [
+        "081-4",
+        "1081-4",
+        "3-1",
+        "32-9",
+        "343-3",
+        "966-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 137,
+      "name": "LUXURY",
+      "addresses": [
+        "18-24",
+        "253-1",
+        "646-5",
+        "674-179",
+        "82-2"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 67,
+      "name": "LUXURY GIANTS)",
+      "addresses": [
+        "1-21",
+        "13-8",
+        "2-07",
+        "2-18",
+        "548-3",
+        "570-2",
+        "62-25"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 17,
+      "name": "LUXURY LOVE PUSH",
+      "addresses": [
+        "064-739",
+        "064-739-9001",
+        "5-17",
+        "5-24"
+      ],
+      "phone_numbers": [
+        "064-739-9001"
+      ],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 126,
+      "name": "L[twin top, kosing, l",
+      "addresses": [
+        "39-66",
+        "448-9"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 76,
+      "name": "Longrun GameLand",
+      "addresses": [
+        "2-09",
+        "2741-1",
+        "49-4",
+        "5-29",
+        "741-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 46,
+      "name": "MINI ZZANG+",
+      "addresses": [
+        "02-208",
+        "175-4",
+        "354-6",
+        "8-789",
+        "834-2",
+        "92-7"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 98,
+      "name": "MINIZZANG +",
+      "addresses": [
+        "260-29",
+        "38-1",
+        "5-08",
+        "598-2",
+        "772-7"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 144,
+      "name": "Medium Center",
+      "addresses": [],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 95,
+      "name": "Mtoys pop",
+      "addresses": [
+        "24-9",
+        "342-5",
+        "69-5",
+        "745-5"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 108,
+      "name": "ND 2(DRAGON PUNCH2)",
+      "addresses": [
+        "23-1",
+        "3-25",
+        "39-88",
+        "61-4"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 50,
+      "name": "NEW HAPPY TWIN",
+      "addresses": [
+        "18-1",
+        "228-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 22,
+      "name": "O,Enter Park 7A",
+      "addresses": [
+        "193-3",
+        "2-1",
+        "9-02"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 142,
+      "name": "P-KoreanAlphaDecimal",
+      "addresses": [],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 60,
+      "name": "PINKLOVE",
+      "addresses": [
+        "24-6",
+        "674-208",
+        "7-01",
+        "74-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 110,
+      "name": "PINKLOVE, VOLCANO,BLINGPOP2",
+      "addresses": [
+        "183-12",
+        "317-7",
+        "7-10",
+        "894-16",
+        "959-2"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 88,
+      "name": "PLAY GROUND",
+      "addresses": [
+        "08-2",
+        "1577-7937",
+        "3-02",
+        "3-02-06",
+        "3-10",
+        "3-10-05",
+        "302-5",
+        "5-28",
+        "577-793"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 97,
+      "name": "PLAYCOCO",
+      "addresses": [
+        "113-4",
+        "251-4",
+        "260-29",
+        "5-08",
+        "5-15",
+        "52-4",
+        "7-11"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 100,
+      "name": "POP2, VOLCANO",
+      "addresses": [
+        "59-17",
+        "7-2",
+        "702-8",
+        "713-6",
+        "8-7"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 70,
+      "name": "POPO CATCHER), popop",
+      "addresses": [
+        "775-8"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 83,
+      "name": "POPOCATCH 4x4) 8ea / LUCKY7 1",
+      "addresses": [
+        "1728-1",
+        "21-38",
+        "728-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 48,
+      "name": "POPOLAND (",
+      "addresses": [
+        "02-208",
+        "1523-7",
+        "2-0",
+        "5-01",
+        "5-01-3",
+        "5-30",
+        "523-7",
+        "8-789"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 93,
+      "name": "PPOPPAY ARCADE ENTERTAINMENT",
+      "addresses": [
+        "14-5",
+        "22-26",
+        "502-8",
+        "61-8"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 104,
+      "name": "Pink Company(",
+      "addresses": [
+        "2-12",
+        "2-22",
+        "216-69",
+        "47-7",
+        "701-51"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 5,
+      "name": "Pink House",
+      "addresses": [
+        "112-2",
+        "1405-2",
+        "141-2",
+        "219-107",
+        "261-8",
+        "3-22",
+        "405-2",
+        "627-379",
+        "64-2"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 66,
+      "name": "Pink Pong",
+      "addresses": [
+        "14-4",
+        "751-17",
+        "9-998",
+        "9-9982"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 122,
+      "name": "PinkyPunky",
+      "addresses": [
+        "11-30",
+        "25-3",
+        "46-8"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 96,
+      "name": "Play Box",
+      "addresses": [
+        "6-27",
+        "637-4",
+        "723-4",
+        "745-5"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 2,
+      "name": "Play Ground",
+      "addresses": [
+        "191-7",
+        "204-8",
+        "31-11",
+        "34-9",
+        "990-4"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 62,
+      "name": "RAINBOW CASTLE",
+      "addresses": [
+        "19-21",
+        "2-3",
+        "6-07",
+        "87-3",
+        "870-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 79,
+      "name": "RAINBOW CASTLE+(i",
+      "addresses": [
+        "06-18",
+        "1-19"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 112,
+      "name": "RAINBOW TWIN",
+      "addresses": [
+        "043-2",
+        "155-8",
+        "27-7",
+        "77-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 53,
+      "name": "RAZING STORM,Hidden Catch5,Beat and Dunk,U",
+      "addresses": [
+        "055-337",
+        "055-337-0091",
+        "1391-2",
+        "245-6",
+        "282-34",
+        "391-2",
+        "474-7",
+        "51-231",
+        "518-2",
+        "7-2"
+      ],
+      "phone_numbers": [
+        "055-337-0091"
+      ],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 136,
+      "name": "Street Hoops",
+      "addresses": [
+        "440-2"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 106,
+      "name": "T+Bling POP2, VOLCANO, 2",
+      "addresses": [
+        "050-185",
+        "06-7",
+        "1121-4",
+        "121-4",
+        "190-7",
+        "3-8",
+        "4-02",
+        "44-1",
+        "567-64",
+        "575-21"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 102,
+      "name": "T, TORNADO NO.2, LUCKY7N",
+      "addresses": [
+        "081-1",
+        "1081-1",
+        "55-5",
+        "6-02",
+        "6-24",
+        "82-6",
+        "898-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 69,
+      "name": "TOYS POP",
+      "addresses": [
+        "189-2",
+        "434-4",
+        "723-2",
+        "75-9",
+        "9-20",
+        "978-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 81,
+      "name": "TOYS POP MINI(8",
+      "addresses": [
+        "153-49",
+        "275-48",
+        "82-5"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 55,
+      "name": "TOYS POP)",
+      "addresses": [
+        "1-25",
+        "1257-2",
+        "14-15",
+        "257-2",
+        "434-19",
+        "645-2"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 44,
+      "name": "TOYS POP) 2",
+      "addresses": [
+        "0-25",
+        "09-13",
+        "5-06",
+        "546-2",
+        "591-17",
+        "627-410",
+        "73-5"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 61,
+      "name": "TOYS POP) 9",
+      "addresses": [
+        "1122-5",
+        "122-5",
+        "21-3",
+        "41-1",
+        "56-5",
+        "8-02",
+        "932-19"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 77,
+      "name": "TOYS POP) i",
+      "addresses": [
+        "07-5",
+        "1257-18",
+        "257-18",
+        "6-24",
+        "891-4",
+        "972-2"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 36,
+      "name": "TOYs POP",
+      "addresses": [
+        "031-768",
+        "031-768-267",
+        "227-54",
+        "36-1",
+        "65-3",
+        "677-8"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 25,
+      "name": "TWIN MULTI",
+      "addresses": [
+        "261-4",
+        "41-757",
+        "41-7578",
+        "85-7"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 65,
+      "name": "Time Zone",
+      "addresses": [
+        "21-3",
+        "391-29",
+        "643-117"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 19,
+      "name": "ToyBox",
+      "addresses": [
+        "118-3",
+        "26-5",
+        "32-2",
+        "576-5",
+        "736-8"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 26,
+      "name": "Toys Pop",
+      "addresses": [
+        "20-3",
+        "38-4",
+        "456-19",
+        "640-2"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 34,
+      "name": "Toys Pop (",
+      "addresses": [
+        "00-9",
+        "16-6",
+        "1732-3",
+        "210-831",
+        "6-9",
+        "732-3",
+        "877-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 115,
+      "name": "Toys Pop 2",
+      "addresses": [
+        "193-64",
+        "258-9",
+        "3357-6",
+        "357-6",
+        "4-0",
+        "4-01"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 7,
+      "name": "Toys Pop(",
+      "addresses": [
+        "1327-7",
+        "1547-6",
+        "327-7",
+        "542-1",
+        "547-6",
+        "711-857"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 1,
+      "name": "Toys Pop(.K",
+      "addresses": [
+        "284-4"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 103,
+      "name": "Toys Pop) 1",
+      "addresses": [
+        "021-10",
+        "063-833",
+        "063-833-3310",
+        "1261-20",
+        "149-1",
+        "261-20",
+        "4-3"
+      ],
+      "phone_numbers": [
+        "063-833-3310"
+      ],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 139,
+      "name": "Toys Pop2h0",
+      "addresses": [
+        "1462-7",
+        "2-16",
+        "43-5",
+        "462-7",
+        "99-8"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 14,
+      "name": "Toys pop",
+      "addresses": [
+        "0-12",
+        "18-5",
+        "22-3",
+        "3-04",
+        "3-04-24"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 45,
+      "name": "Toys pop (",
+      "addresses": [
+        "0-25",
+        "09-13",
+        "5-06",
+        "546-2",
+        "591-17",
+        "627-410",
+        "73-5",
+        "746-4"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 118,
+      "name": "Toyspop",
+      "addresses": [
+        "06-1",
+        "139-3",
+        "148-5",
+        "156-80",
+        "2-25",
+        "45-2"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 113,
+      "name": "Twin",
+      "addresses": [
+        "258-9",
+        "3357-6",
+        "357-6",
+        "4-08",
+        "43-3",
+        "560-10",
+        "91-15"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 37,
+      "name": "UPLOVE(3), Bling POP2(6",
+      "addresses": [
+        "599-6"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 94,
+      "name": "VOLCANO",
+      "addresses": [
+        "101-3",
+        "1462-2",
+        "22-26",
+        "462-2"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 41,
+      "name": "W<PLAY ZONE/ARCADE",
+      "addresses": [
+        "005-2",
+        "1005-2",
+        "646-2",
+        "79-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 82,
+      "name": "WA PLAY ZONE(",
+      "addresses": [
+        "4-2",
+        "463-2",
+        "509-2",
+        "678-4",
+        "684-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 24,
+      "name": "X Game Zone",
+      "addresses": [
+        "05-4",
+        "111-33",
+        "30-0",
+        "4-21",
+        "427-1",
+        "45-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 32,
+      "name": "ZZANG",
+      "addresses": [
+        "00-9",
+        "1732-3",
+        "1890-3",
+        "210-831",
+        "6-9",
+        "732-3",
+        "877-1",
+        "890-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 27,
+      "name": "ZZANG)",
+      "addresses": [
+        "489-3",
+        "79-1",
+        "803-88"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 128,
+      "name": "ZZANG+",
+      "addresses": [
+        "347-9",
+        "5-38",
+        "57-1",
+        "63-3",
+        "99-1"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 130,
+      "name": "ZZANG+(4",
+      "addresses": [
+        "054-56",
+        "1054-56",
+        "429-2",
+        "5-03",
+        "5-03-21",
+        "84-6"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 99,
+      "name": "a%T), RAINBOW CASTLE+(7",
+      "addresses": [
+        "25-9",
+        "643-1",
+        "830-49"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 43,
+      "name": "b8 RAINBOW CASTLE",
+      "addresses": [
+        "024-09",
+        "50-12",
+        "812-1",
+        "9-6"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 30,
+      "name": "beat and dunk",
+      "addresses": [
+        "0-878",
+        "0-8781",
+        "1-28",
+        "13-18",
+        "2-21",
+        "36-3",
+        "578-3",
+        "581-000",
+        "581-0001"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 3,
+      "name": "candybox alpha, MENTOS(\"+",
+      "addresses": [
+        "1-05",
+        "2272-7",
+        "272-7",
+        "4-09",
+        "80-5"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 140,
+      "name": "g(VOLCANO",
+      "addresses": [
+        "060-407",
+        "246-2",
+        "49-41"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 80,
+      "name": "gToys Pop",
+      "addresses": [
+        "032-542",
+        "032-542-525",
+        "046-3",
+        "190-135",
+        "3-05",
+        "536-5",
+        "63-8",
+        "810-2",
+        "961-89"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 68,
+      "name": "game zone",
+      "addresses": [
+        "006-7",
+        "1006-7",
+        "106-5",
+        "4-08"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 141,
+      "name": "gamezoneH",
+      "addresses": [
+        "3685-71",
+        "685-71"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 72,
+      "name": "h,(inno suite)",
+      "addresses": [
+        "60-27",
+        "8-09"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 64,
+      "name": "hBeat and Dunk, SPEED HOCKEY",
+      "addresses": [
+        "0315-0",
+        "315-0",
+        "439-15",
+        "883-10"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 49,
+      "name": "hSD 2,RAINBOW CASTLE",
+      "addresses": [
+        "1257-4",
+        "257-4",
+        "65-5",
+        "790-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 59,
+      "name": "p,sweetland4, rainbow paradise",
+      "addresses": [
+        "181-79",
+        "21-2",
+        "847-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 56,
+      "name": "pump it up fiesta, beat and dunk",
+      "addresses": [
+        "03-6",
+        "063-58",
+        "130-13",
+        "66-9",
+        "998-7"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 86,
+      "name": "rainbow1",
+      "addresses": [
+        "1418-83",
+        "418-83",
+        "933-3"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 127,
+      "name": "spacex+, beat and dunk, city hunter",
+      "addresses": [
+        "39-66",
+        "448-9"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 133,
+      "name": "t<MEGA TOP,HAPPY CUT VER.1,TWIN",
+      "addresses": [
+        "1182-2",
+        "156-3",
+        "182-2",
+        "3-6"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 13,
+      "name": "toyspop",
+      "addresses": [
+        "01-9",
+        "10-30",
+        "1552-6",
+        "198-8",
+        "552-6"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    },
+    {
+      "id": 114,
+      "name": "zzang+",
+      "addresses": [
+        "258-9",
+        "3357-6",
+        "357-6",
+        "4-08",
+        "43-3",
+        "91-15"
+      ],
+      "phone_numbers": [],
+      "type": "claw_machine_arcade"
+    }
+  ]
+}

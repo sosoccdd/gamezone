@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "대박오락실",
+    "address": "서울특별시 강북구 수유동 118-1번지",
+    "google_map": "https://www.google.com/maps?q=서울특별시+강북구+수유동+118-1번지",
+    "naver_map": "https://map.naver.com/v5/search/서울특별시%20강북구%20수유동%20118-1번지"
+  },
+  {
+    "id": 2,
+    "name": "교육원 오락실",
+    "address": "서울특별시 도봉구 로145길 69",
+    "google_map": "https://www.google.com/maps?q=서울특별시+도봉구+로145길+69",
+    "naver_map": "https://map.naver.com/v5/search/서울특별시%20도봉구%20로145길%2069"
+  },
+  {
+    "id": 3,
+    "name": "게임랜드",
+    "address": "서울특별시 강서구 화곡동 905-9번지 2층",
+    "google_map": "https://www.google.com/maps?q=서울특별시+강서구+화곡동+905-9번지+2층",
+    "naver_map": "https://map.naver.com/v5/search/서울특별시%20강서구%20화곡동%20905-9번지%202층"
+  },
+  {
+    "id": 4,
+    "name": "한류월드",
+    "address": "서울특별시 서초구 반포동 19-11 강남고속터미널역",
+    "google_map": "https://www.google.com/maps?q=서울특별시+서초구+반포동+19-11+강남고속터미널역",
+    "naver_map": "https://map.naver.com/v5/search/서울특별시%20서초구%20반포동%2019-11%20강남고속터미널역"
+  },
+  {
+    "id": 5,
+    "name": "스마일크레인",
+    "address": "경기도 고양시 덕양구 화정동 981-2",
+    "google_map": "https://www.google.com/maps?q=경기도+고양시+덕양구+화정동+981-2",
+    "naver_map": "https://map.naver.com/v5/search/경기도%20고양시%20덕양구%20화정동%20981-2"
+  },
+  {
+    "id": 6,
+    "name": "토이박스크레인",
+    "address": "부산광역시 사하구 괴정동 957-51",
+    "google_map": "https://www.google.com/maps?q=부산광역시+사하구+괴정동+957-51",
+    "naver_map": "https://map.naver.com/v5/search/부산광역시%20사하구%20괴정동%20957-51"
+  },
+  {
+    "id": 7,
+    "name": "퍼니랜드",
+    "address": "경상남도 창원시 성산구 성내리 226-3번지",
+    "google_map": "https://www.google.com/maps?q=경상남도+창원시+성산구+성내리+226-3번지",
+    "naver_map": "https://map.naver.com/v5/search/경상남도%20창원시%20성산구%20성내리%20226-3번지"
+  },
+  {
+    "id": 8,
+    "name": "지투존",
+    "address": "대전광역시 중구 정동 1-3",
+    "google_map": "https://www.google.com/maps?q=대전광역시+중구+정동+1-3",
+    "naver_map": "https://map.naver.com/v5/search/대전광역시%20중구%20정동%201-3"
+  },
+  {
+    "id": 9,
+    "name": "코코랜드",
+    "address": "충청남도 천안시 동남구 안서동",
+    "google_map": "https://www.google.com/maps?q=충청남도+천안시+동남구+안서동",
+    "naver_map": "https://map.naver.com/v5/search/충청남도%20천안시%20동남구%20안서동"
+  },
+  {
+    "id": 10,
+    "name": "드림게임장",
+    "address": "전라남도 순천시 남구",
+    "google_map": "https://www.google.com/maps?q=전라남도+순천시+남구",
+    "naver_map": "https://map.naver.com/v5/search/전라남도%20순천시%20남구"
+  },
+  {
+    "id": 11,
+    "name": "럭키게임장",
+    "address": "대구광역시 달서구 두류동",
+    "google_map": "https://www.google.com/maps?q=대구광역시+달서구+두류동",
+    "naver_map": "https://map.naver.com/v5/search/대구광역시%20달서구%20두류동"
+  },
+  {
+    "id": 12,
+    "name": "해피플레이존",
+    "address": "울산광역시 동구 서부동 113-71",
+    "google_map": "https://www.google.com/maps?q=울산광역시+동구+서부동+113-71",
+    "naver_map": "https://map.naver.com/v5/search/울산광역시%20동구%20서부동%20113-71"
+  },
+  {
+    "id": 13,
+    "name": "골든크레인",
+    "address": "대구광역시 중구 남포동 5가",
+    "google_map": "https://www.google.com/maps?q=대구광역시+중구+남포동+5가",
+    "naver_map": "https://map.naver.com/v5/search/대구광역시%20중구%20남포동%205가"
+  },
+  {
+    "id": 14,
+    "name": "종합게임장",
+    "address": "광주광역시 남구 봉선동",
+    "google_map": "https://www.google.com/maps?q=광주광역시+남구+봉선동",
+    "naver_map": "https://map.naver.com/v5/search/광주광역시%20남구%20봉선동"
+  },
+  {
+    "id": 15,
+    "name": "플러스크레인",
+    "address": "경기도 수원시 영통구",
+    "google_map": "https://www.google.com/maps?q=경기도+수원시+영통구",
+    "naver_map": "https://map.naver.com/v5/search/경기도%20수원시%20영통구"
+  },
+  {
+    "id": 16,
+    "name": "통키오락실",
+    "address": "경기도 성남시 분당구",
+    "google_map": "https://www.google.com/maps?q=경기도+성남시+분당구",
+    "naver_map": "https://map.naver.com/v5/search/경기도%20성남시%20분당구"
+  },
+  {
+    "id": 17,
+    "name": "봉봉스테이션",
+    "address": "인천광역시 서구 청라동",
+    "google_map": "https://www.google.com/maps?q=인천광역시+서구+청라동",
+    "naver_map": "https://map.naver.com/v5/search/인천광역시%20서구%20청라동"
+  },
+  {
+    "id": 18,
+    "name": "스위트랜드",
+    "address": "부산광역시 해운대구 우동",
+    "google_map": "https://www.google.com/maps?q=부산광역시+해운대구+우동",
+    "naver_map": "https://map.naver.com/v5/search/부산광역시%20해운대구%20우동"
+  },
+  {
+    "id": 19,
+    "name": "조이풀게임장",
+    "address": "전북특별자치도 전주시 덕진구",
+    "google_map": "https://www.google.com/maps?q=전북특별자치도+전주시+덕진구",
+    "naver_map": "https://map.naver.com/v5/search/전북특별자치도%20전주시%20덕진구"
+  },
+  {
+    "id": 20,
+    "name": "오락카페 키즈존",
+    "address": "제주특별자치도 제주시 연동",
+    "google_map": "https://www.google.com/maps?q=제주특별자치도+제주시+연동",
+    "naver_map": "https://map.naver.com/v5/search/제주특별자치도%20제주시%20연동"
+  }
+]
